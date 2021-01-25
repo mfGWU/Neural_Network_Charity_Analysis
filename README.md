@@ -14,5 +14,6 @@ The purpose of this analysis is to leverage neural network using the features in
 + Were you able to achieve the target model performance?  With 72.3% accuracy, I missed the target model performance by 3.0%.
 + What steps did you take to try and increase model performance?  I increase the hidden_nodes_layer1 by 20 from 80 and increase the  hidden_nodes_layer2 = 30 by 20 as well.
 
-# Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+# Summary: 
+Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
